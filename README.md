@@ -1,8 +1,4 @@
-Got it — let’s **master your prompt** so it’s crystal clear, structured, and universally understandable by any AI or collaborator. This version is written like a **creative/technical specification document**, with no ambiguity:
-
----
-
-# 🌊 Master Prompt: 3D Scrollytelling Website on Water
+🌊 Master Prompt: 3D Scrollytelling Website on Water
 
 ## 🎯 Project Vision
 Build a **3D storytelling/scrollytelling website** themed around *Water*, using a **Glassmorphism/Acrylic UI** inspired by Windows 11. The site must feel premium, immersive, and fluid — combining narrative storytelling with interactive 3D visuals, animations, and expressive typography.
@@ -86,16 +82,9 @@ Scroll-driven storytelling journey through water’s states, with seamless liqui
 - Apple product pages → smooth scrollytelling transitions  
 
 ---
-
 ## 📌 Suggested Timeline
 - Week 1–2: Concept, design system, wireframes.  
 - Week 3–4: Development setup + intro scene.  
 - Week 5–6: Build storytelling chapters.  
 - Week 7: Add premium effects + typography polish.  
 - Week 8: Testing, optimization, deployment.  
-
----
-
-✅ This **master prompt** is now structured like a universal specification. Any AI, designer, or developer can read it and immediately understand the vision, roadmap, and execution plan without confusion.  
-
-Would you like me to **translate this master prompt into a starter code prototype** (Next.js + Three.js + GSAP) so you can begin building the intro scene right away?
